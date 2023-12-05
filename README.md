@@ -6,6 +6,12 @@
 </div>
 </html>
 
+<html>
+  <div align="center">
+    <img src="https://hit.yhype.me/github/profile?user_id=75702689" alt="GitHub Profile">
+  </div>
+</html>
+
 <!--
 **KeVanAlthius/KeVanAlthius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
